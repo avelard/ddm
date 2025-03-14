@@ -1,0 +1,15 @@
+Hoje retomamos um pouco sobre POO, algoritmos e demais materias.
+*importante*
+-Saber o nome das tecnicas ajuda nas entrevistas de emprego e quando tiver que pesquisar no google alguma informação.
+-Padrão de nomenclatura snake case. (tudo em minusculo separando as palavras com _)
+-Padrão de salvar: hot reload (quando salva o arquivo recarrega atualizando os dados)
+-extensão do flutter .dart
+-Boa pratica colocar o modo do retorno no código
+-Tipo "var" variavel de inferencia.
+-Dinamico e Estatico: id é estático pois uma vez definido não se altera o tipo somente o valor.
+-Erro de compilação e erro de execução:
+--Compilação antes de executar o código(é melhor)
+--Execução depois que executa o código (é ruim)
+
+
+codigo da aula
